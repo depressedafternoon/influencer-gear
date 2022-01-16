@@ -1,0 +1,49 @@
+
+
+.influencer-product{
+    display: inline;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.influencer-menu{
+   display: inline;
+   display: flex;
+   padding-right: 10px;
+}
+.influencer-menu p{
+    padding-right: 20px;
+}
+
+
+.influencer{
+    display: flex;
+    padding-top: 30px;
+}
+
+.influencer-heading{
+    width: 50%;
+    padding: 25px;
+    padding-left: 50px;
+}
+.photography-heading{
+    font-size: 60px;
+}
+
+.prebook{
+    height: 40px;
+    width: 150px;
+    background-color:rgb(240, 128, 128);
+    color: white;
+    border-radius: 40px;
+    padding-left: 30px;
+    padding-top: 10px;
+    font-size: 20px;
+
+}
+.main-camera{
+    width: 80%;
+    padding-left: 50px;
+    padding-top: 60px;
+}
