@@ -2,6 +2,11 @@
 1st Section 
 ...............*/
 
+body{
+    
+font-family: 'Open Sans', sans-serif;
+}
+
 .influencer-product{
     display: inline;
     display: flex;
@@ -93,5 +98,24 @@
 }
 .fa-hand-point-right{
     padding-left: 5px;
-    
+}
+
+/*---------------
+ 3rd section
+---------------- */
+
+.box{
+    text-align: center;
+    height: 200px;
+    width: 100%;
+    background-color: rgb(2, 2, 32);
+    color: white;
+}
+
+.last-heading{
+    padding-top: 40px;
+}
+
+.fa-instagram, .fa-facebook, .fa-youtube, .fa-twitter-square{
+    padding-right: 10px;
 }
