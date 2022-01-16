@@ -1,4 +1,6 @@
-
+/*............. 
+1st Section 
+...............*/
 
 .influencer-product{
     display: inline;
@@ -15,7 +17,6 @@
 .influencer-menu p{
     padding-right: 20px;
 }
-
 
 .influencer{
     display: flex;
@@ -46,4 +47,51 @@
     width: 80%;
     padding-left: 50px;
     padding-top: 60px;
+}
+
+        /*.........
+        2nd Section 
+        */
+
+    .container-2{
+        padding-top: 50px;
+    }
+
+    .collection-heading{
+        text-align: center;
+        padding-bottom: 40px;
+    }
+
+
+    .images{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding-left: 100px;
+    
+}
+
+.rate{
+    padding-left: 10px;
+}
+
+.collection-article p{
+    font-size: 12px;
+    margin: 2px
+    
+}
+.image{
+    padding-top: 20px;
+}
+.fa-star, .fa-star-half-alt{
+    font-size: 10px;
+}
+.see-more{
+    text-align: end;
+    color: violet;
+    padding-right: 120px;
+    font-size: 20px;
+}
+.fa-hand-point-right{
+    padding-left: 5px;
+    
 }
